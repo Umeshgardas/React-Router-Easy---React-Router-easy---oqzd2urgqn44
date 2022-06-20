@@ -10,7 +10,7 @@ export const AppRoutes = () => {
       <Routes>
         <Route exact path="/" element={<Index />} />
         <Route exact path="/home" element={<Home />} />
-        <Route exact path="*" element={<NotFound />} />
+        <Route exact path="*" element={<NotFound />} />nncnbn
       </Routes>
     </div>
   );
